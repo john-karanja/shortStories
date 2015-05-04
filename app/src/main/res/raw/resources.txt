@@ -1,0 +1,26 @@
+Check out General Assembly's free DASH course for more practice with HTML / CSS and even Javascript.
+  
+  https://dash.generalassemb.ly/
+
+Mozilla Developer's Network (MDN)
+
+  HTML - https://developer.mozilla.org/en-US/docs/Web/html
+  CSS - https://developer.mozilla.org/en-US/docs/Web/CSS
+  JavaScript - https://developer.mozilla.org/en-US/docs/Web/javascript
+
+CSS Tricks and Examples
+
+  http://codepen.io/
+
+CodeSchool Free HTML / CSS Course 
+
+  https://www.codeschool.com/courses/css-cross-country
+
+CodeAcademy - HTML / CSS Tutorial 
+
+  http://www.codecademy.com/tracks/web
+
+  
+
+
+

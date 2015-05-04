@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.john.shorttechstories" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".Billgates"
+            android:label="@string/title_activity_billgates" >
+        </activity>
+        <activity
+            android:name=".Splash"
+            android:label="@string/title_activity_splash"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="MainActivity" />
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Bill_gates"
+            android:label="@string/title_activity_bill_gates" >
+        </activity>
+        <activity
+            android:name=".Steveandwoz"
+            android:label="@string/title_activity_steveandwoz" >
+        </activity>
+        <activity
+            android:name=".Sergeyandlarry"
+            android:label="@string/title_activity_sergeyandlarry" >
+        </activity>
+        <activity
+            android:name=".Markzuckerberg"
+            android:label="@string/title_activity_markzuckerberg" >
+        </activity>
+        <activity
+            android:name=".LarryElison"
+            android:label="@string/title_activity_larry_elison" >
+        </activity>
+        <activity
+            android:name=".Thepaypalmafia"
+            android:label="@string/title_activity_thepaypalmafia" >
+        </activity>
+        <activity
+            android:name=".Thetwitterstory"
+            android:label="@string/title_activity_thetwitterstory" >
+        </activity>
+        <activity
+            android:name=".Thejohnkaranjastory"
+            android:label="@string/title_activity_thejohnkaranjastory" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shorttechstories</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_billgates">Billgates</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_bill_gates">Bill_gates</string>
+    <string name="title_activity_steveandwoz">Steveandwoz</string>
+    <string name="title_activity_sergeyandlarry">Sergeyandlarry</string>
+    <string name="title_activity_markzuckerberg">Markzuckerberg</string>
+    <string name="title_activity_larry_elison">LarryElison</string>
+    <string name="title_activity_thepaypalmafia">Thepaypalmafia</string>
+    <string name="title_activity_thetwitterstory">Thetwitterstory</string>
+    <string name="title_activity_thejohnkaranjastory">Thejohnkaranjastory</string>
+</resources>
